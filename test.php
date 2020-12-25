@@ -1,0 +1,1 @@
+print "Something..."; //Prints something to the console I think, and this is a comment, I think 
